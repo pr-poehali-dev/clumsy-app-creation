@@ -99,7 +99,7 @@ export default function Index() {
         <div className="flex items-center gap-3">
           <div className="w-2 h-2 rounded-full bg-[#00ff88] animate-pulse" />
           <span className="text-xs tracking-[0.3em] text-[#666] uppercase">
-            NetSim
+            Anathema
           </span>
           <span className="text-xs text-[#333] ml-2">v1.0</span>
         </div>
@@ -268,7 +268,7 @@ export default function Index() {
       {/* Footer */}
       <footer className="border-t border-[#1a1a1a] px-8 py-4 flex items-center justify-between">
         <span className="text-[10px] text-[#2a2a2a] tracking-[0.3em] uppercase">
-          Network Simulator
+          Anathema
         </span>
         <div className="flex items-center gap-2">
           <div
